@@ -10,12 +10,12 @@ Check whether a value is a promise.
 
 ## Installation
 
-    $ npm install @micro-js/is-promise
+    $ npm install @f/is-promise
 
 ## Usage
 
 ```js
-var isPromise = require('@micro-js/is-promise');
+var isPromise = require('@f/is-promise');
 
 isPromise({then: function () {...}}) // => true
 isPromise(null) // => false
@@ -42,5 +42,5 @@ MIT
 [git-url]: https://github.com/micro-js/is-promise
 [standard-image]: https://img.shields.io/badge/code%20style-standard-brightgreen.svg?style=flat
 [standard-url]: https://github.com/feross/standard
-[npm-image]: https://img.shields.io/npm/v/@micro-js/is-promise.svg?style=flat-square
-[npm-url]: https://npmjs.org/package/@micro-js/is-promise
+[npm-image]: https://img.shields.io/npm/v/@f/is-promise.svg?style=flat-square
+[npm-url]: https://npmjs.org/package/@f/is-promise

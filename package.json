@@ -1,5 +1,5 @@
 {
-  "name": "@micro-js/is-promise",
+  "name": "@f/is-promise",
   "description": "Check whether a value is a promise.",
   "repository": "git://github.com/micro-js/is-promise.git",
   "version": "1.0.0",
